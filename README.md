@@ -42,5 +42,4 @@ This Colab notebook converts markdown meeting notes into a well-formatted Google
 - Error Handling: Exponential backoff retries for 429/5xx
 - Documentation: This README + inline guidance in the notebook
 
-## Author
-Prepared by: Jai Adithya Ram Nayani
+
